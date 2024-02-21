@@ -66,6 +66,7 @@
 
 .nav-links button{
     color: black;
+    cursor: pointer;
     margin: 15px;
     font-size: 15px;
     background: none;
