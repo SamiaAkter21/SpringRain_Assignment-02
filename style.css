@@ -24,6 +24,7 @@
     padding-inline: 20px;
     height: 85px;
 }
+
 .container img{
     margin-left: 10px;
     width: 40px;
@@ -261,6 +262,7 @@
 }
 
 #Topbtn {
+    display: none;
     position: fixed;
     bottom: 10px;
     cursor: pointer;
